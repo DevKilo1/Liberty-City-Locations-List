@@ -1,2 +1,7 @@
 # Liberty-City-Locations-List
-Open-Source Liberty City Spawn Locations List. Contains almost 200 locations across the whole city!
+Open-Source Liberty City Spawn Locations List. Enjoy! :)
+<div> 
+  # Ped Spawns
+  Contains almost 200 locations.
+  DISCLAIMER: These are for peds, not for vehicles.
+</div>
